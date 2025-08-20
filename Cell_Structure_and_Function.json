@@ -1,0 +1,702 @@
+[
+  {
+    "id": 1,
+    "source": "NEET 2020",
+    "type": "MCQ Single Answer",
+    "chapter": "Cell: Structure & Function",
+    "q": "Which organelle is called the 'powerhouse of the cell'?",
+    "options": [
+      "Nucleus",
+      "Mitochondria",
+      "Ribosome",
+      "Golgi body"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 2,
+    "source": "NEET 2003",
+    "type": "MCQ Single Answer",
+    "chapter": "Cell: Structure & Function",
+    "q": "Cell theory was proposed by:",
+    "options": [
+      "Schwann and Schleiden",
+      "Hooke and Leeuwenhoek",
+      "Darwin and Wallace",
+      "Watson and Crick"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 3,
+    "source": "NEET 2000",
+    "type": "MCQ Single Answer",
+    "chapter": "Cell: Structure & Function",
+    "q": "The unit membrane model was proposed by:",
+    "options": [
+      "Robertson",
+      "Singer and Nicolson",
+      "Danielli and Davson",
+      "Watson and Crick"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 4,
+    "source": "NEET 2023",
+    "type": "MCQ Single Answer",
+    "chapter": "Cell: Structure & Function",
+    "q": "Fluid mosaic model describes:",
+    "options": [
+      "DNA replication",
+      "Plasma membrane structure",
+      "Protein synthesis",
+      "Cell wall deposition"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 5,
+    "source": "NEET 2008",
+    "type": "MCQ Single Answer",
+    "chapter": "Cell: Structure & Function",
+    "q": "Cristae are found in:",
+    "options": [
+      "Chloroplast",
+      "Mitochondria",
+      "Golgi bodies",
+      "Lysosomes"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 6,
+    "source": "NEET 2007",
+    "type": "MCQ Single Answer",
+    "chapter": "Cell: Structure & Function",
+    "q": "Stacks of thylakoids are called:",
+    "options": [
+      "Cristae",
+      "Grana",
+      "Stroma",
+      "Lamella"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 7,
+    "source": "NEET 2007",
+    "type": "MCQ Single Answer",
+    "chapter": "Cell: Structure & Function",
+    "q": "70S ribosome occurs in:",
+    "options": [
+      "Eukaryotic cytosol",
+      "Mitochondria and chloroplast",
+      "Nucleus",
+      "RER"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 8,
+    "source": "NEET 2004",
+    "type": "MCQ Single Answer",
+    "chapter": "Cell: Structure & Function",
+    "q": "Primary cell wall in plants is mainly composed of:",
+    "options": [
+      "Cellulose",
+      "Chitin",
+      "Peptidoglycan",
+      "Suberin"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 9,
+    "source": "NEET 2023",
+    "type": "MCQ Single Answer",
+    "chapter": "Cell: Structure & Function",
+    "q": "Peptidoglycan is characteristic of:",
+    "options": [
+      "Plant cells",
+      "Animal cells",
+      "Bacterial cell wall",
+      "Fungal cell wall"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 10,
+    "source": "NEET 2003",
+    "type": "MCQ Single Answer",
+    "chapter": "Cell: Structure & Function",
+    "q": "Lysosomes are rich in:",
+    "options": [
+      "Oxidases",
+      "Hydrolytic enzymes",
+      "Dehydrogenases",
+      "Ligases"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 11,
+    "source": "NEET 2021",
+    "type": "MCQ Single Answer",
+    "chapter": "Cell: Structure & Function",
+    "q": "Golgi apparatus is involved in:",
+    "options": [
+      "Protein glycosylation and packaging",
+      "DNA replication",
+      "ATP synthesis",
+      "Transcription"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 12,
+    "source": "NEET 2023",
+    "type": "MCQ Single Answer",
+    "chapter": "Cell: Structure & Function",
+    "q": "Peroxisomes contain enzyme:",
+    "options": [
+      "Catalase",
+      "Pepsin",
+      "Amylase",
+      "Trypsin"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 13,
+    "source": "NEET 2017",
+    "type": "MCQ Single Answer",
+    "chapter": "Cell: Structure & Function",
+    "q": "SER is primarily associated with:",
+    "options": [
+      "Protein synthesis",
+      "Lipid synthesis",
+      "DNA replication",
+      "RNA splicing"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 14,
+    "source": "NEET 2002",
+    "type": "MCQ Single Answer",
+    "chapter": "Cell: Structure & Function",
+    "q": "RER appears rough due to:",
+    "options": [
+      "Ribosomes",
+      "Glycogen granules",
+      "Lipid droplets",
+      "DNA"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 15,
+    "source": "NEET 2018",
+    "type": "MCQ Single Answer",
+    "chapter": "Cell: Structure & Function",
+    "q": "Centrioles are absent in:",
+    "options": [
+      "Animal cells",
+      "Higher plants",
+      "Protists",
+      "Fungi"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 16,
+    "source": "NEET 2013",
+    "type": "MCQ Single Answer",
+    "chapter": "Cell: Structure & Function",
+    "q": "Plasmodesmata connect:",
+    "options": [
+      "Adjacent plant cells",
+      "Animal cells",
+      "Bacteria",
+      "Nerve cells"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 17,
+    "source": "NEET 2001",
+    "type": "MCQ Single Answer",
+    "chapter": "Cell: Structure & Function",
+    "q": "Which microscope has highest resolving power here?",
+    "options": [
+      "Light microscope",
+      "TEM",
+      "SEM",
+      "Dissecting microscope"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 18,
+    "source": "NEET 2000",
+    "type": "MCQ Single Answer",
+    "chapter": "Cell: Structure & Function",
+    "q": "Kinetochore is associated with:",
+    "options": [
+      "Ribosome assembly",
+      "Chromosome-spindle attachment",
+      "Protein glycosylation",
+      "DNA repair"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 19,
+    "source": "NEET 2002",
+    "type": "MCQ Single Answer",
+    "chapter": "Cell: Structure & Function",
+    "q": "Microtubules are made of:",
+    "options": [
+      "Actin",
+      "Tubulin",
+      "Myosin",
+      "Keratin"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 20,
+    "source": "NEET 2006",
+    "type": "MCQ Single Answer",
+    "chapter": "Cell: Structure & Function",
+    "q": "Which is not a cytoskeletal element?",
+    "options": [
+      "Microtubules",
+      "Intermediate filaments",
+      "Microfilaments",
+      "Tonoplast"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 21,
+    "source": "NEET 2007",
+    "type": "MCQ Single Answer",
+    "chapter": "Cell: Structure & Function",
+    "q": "Term 'protoplasm' was coined by:",
+    "options": [
+      "Purkinje",
+      "Schleiden",
+      "Schwann",
+      "Hooke"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 22,
+    "source": "NEET 2016",
+    "type": "MCQ Single Answer",
+    "chapter": "Cell: Structure & Function",
+    "q": "70S ribosomes have subunits:",
+    "options": [
+      "40S + 60S",
+      "30S + 50S",
+      "20S + 50S",
+      "40S + 50S"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 23,
+    "source": "NEET 2019",
+    "type": "MCQ Single Answer",
+    "chapter": "Cell: Structure & Function",
+    "q": "Tonoplast is the membrane of:",
+    "options": [
+      "Nucleus",
+      "Chloroplast",
+      "Vacuole",
+      "Mitochondria"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 24,
+    "source": "NEET 2000",
+    "type": "MCQ Single Answer",
+    "chapter": "Cell: Structure & Function",
+    "q": "Glyoxysomes occur in:",
+    "options": [
+      "Animal liver cells",
+      "Germinating oil seeds",
+      "Guard cells",
+      "Neurons"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 25,
+    "source": "NEET 2017",
+    "type": "MCQ Single Answer",
+    "chapter": "Cell: Structure & Function",
+    "q": "Middle lamella is rich in:",
+    "options": [
+      "Lignin",
+      "Suberin",
+      "Pectin",
+      "Cutin"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 26,
+    "source": "NEET 2006",
+    "type": "MCQ Single Answer",
+    "chapter": "Cell: Structure & Function",
+    "q": "Cilia and flagella show arrangement:",
+    "options": [
+      "9+0",
+      "9+2",
+      "9+1",
+      "8+2"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 27,
+    "source": "NEET 2022",
+    "type": "MCQ Single Answer",
+    "chapter": "Cell: Structure & Function",
+    "q": "Nuclear pores regulate:",
+    "options": [
+      "Protein synthesis",
+      "Exchange between nucleoplasm and cytoplasm",
+      "ATP production",
+      "Photosynthesis"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 28,
+    "source": "NEET 2020",
+    "type": "MCQ Single Answer",
+    "chapter": "Cell: Structure & Function",
+    "q": "Histones are rich in:",
+    "options": [
+      "Acidic amino acids",
+      "Basic amino acids",
+      "Sulfur aa",
+      "Aromatic aa"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 29,
+    "source": "NEET 2022",
+    "type": "MCQ Single Answer",
+    "chapter": "Cell: Structure & Function",
+    "q": "Nucleolus is site of:",
+    "options": [
+      "rRNA synthesis",
+      "tRNA charging",
+      "DNA replication",
+      "mRNA capping"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 30,
+    "source": "NEET 2017",
+    "type": "MCQ Single Answer",
+    "chapter": "Cell: Structure & Function",
+    "q": "Which organelle has circular DNA?",
+    "options": [
+      "Golgi",
+      "Lysosome",
+      "Chloroplast",
+      "Peroxisome"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 31,
+    "source": "NEET 2013",
+    "type": "MCQ Single Answer",
+    "chapter": "Cell: Structure & Function",
+    "q": "Pinocytosis refers to:",
+    "options": [
+      "Cell drinking",
+      "Cell eating",
+      "Cell division",
+      "Cell death"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 32,
+    "source": "NEET 2007",
+    "type": "MCQ Single Answer",
+    "chapter": "Cell: Structure & Function",
+    "q": "Aquaporins facilitate movement of:",
+    "options": [
+      "Ions",
+      "Water",
+      "Glucose",
+      "Amino acids"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 33,
+    "source": "NEET 2014",
+    "type": "MCQ Single Answer",
+    "chapter": "Cell: Structure & Function",
+    "q": "Na⁺/K⁺ pump is:",
+    "options": [
+      "Passive",
+      "Primary active",
+      "Secondary active",
+      "Bulk transport"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 34,
+    "source": "NEET 2018",
+    "type": "MCQ Single Answer",
+    "chapter": "Cell: Structure & Function",
+    "q": "Symport means:",
+    "options": [
+      "Two solutes same direction",
+      "Two solutes opposite",
+      "One solute down gradient",
+      "Bulk uptake"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 35,
+    "source": "NEET 2008",
+    "type": "MCQ Single Answer",
+    "chapter": "Cell: Structure & Function",
+    "q": "Absent in prokaryotes:",
+    "options": [
+      "Plasma membrane",
+      "DNA",
+      "Membrane-bound organelles",
+      "Ribosomes"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 36,
+    "source": "NEET 2025",
+    "type": "MCQ Single Answer",
+    "chapter": "Cell: Structure & Function",
+    "q": "Mesosome is:",
+    "options": [
+      "Respiratory membrane infolding",
+      "Storage granule",
+      "Flagellar hook",
+      "Capsular layer"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 37,
+    "source": "NEET 2000",
+    "type": "MCQ Single Answer",
+    "chapter": "Cell: Structure & Function",
+    "q": "Golgi cis face is oriented towards:",
+    "options": [
+      "ER",
+      "Plasma membrane",
+      "Nucleus",
+      "Mitochondria"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 38,
+    "source": "NEET 2024",
+    "type": "MCQ Single Answer",
+    "chapter": "Cell: Structure & Function",
+    "q": "Polyribosome is:",
+    "options": [
+      "Cluster of ribosomes on mRNA",
+      "Ribosomes in nucleus",
+      "Ribosomes on SER",
+      "Mitochondrial ribosomes"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 39,
+    "source": "NEET 2025",
+    "type": "MCQ Single Answer",
+    "chapter": "Cell: Structure & Function",
+    "q": "Chloroplast stroma contains:",
+    "options": [
+      "DNA, ribosomes and enzymes",
+      "Only thylakoids",
+      "Only grana",
+      "Only pigments"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 40,
+    "source": "NEET 2005",
+    "type": "MCQ Single Answer",
+    "chapter": "Cell: Structure & Function",
+    "q": "Tight junction ensures:",
+    "options": [
+      "Electrical coupling",
+      "Tight seal",
+      "Anchorage",
+      "Signal transduction"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 41,
+    "source": "NEET 2022",
+    "type": "MCQ Single Answer",
+    "chapter": "Cell: Structure & Function",
+    "q": "Desmotubule is part of:",
+    "options": [
+      "Gap junction",
+      "Plasmodesmata",
+      "Tonoplast",
+      "Mesosome"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 42,
+    "source": "NEET 2013",
+    "type": "MCQ Single Answer",
+    "chapter": "Cell: Structure & Function",
+    "q": "Cell inclusions (starch/glycogen) are:",
+    "options": [
+      "Living structures",
+      "Non-living ergastic substances",
+      "Organelles",
+      "Nucleoproteins"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 43,
+    "source": "NEET 2010",
+    "type": "MCQ Single Answer",
+    "chapter": "Cell: Structure & Function",
+    "q": "Smooth ER in hepatocytes:",
+    "options": [
+      "Detox & lipid metabolism",
+      "Protein secretion",
+      "DNA replication",
+      "Glycosylation"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 44,
+    "source": "NEET 2008",
+    "type": "MCQ Single Answer",
+    "chapter": "Cell: Structure & Function",
+    "q": "Amphipathic phospholipids have:",
+    "options": [
+      "Only hydrophilic",
+      "Only hydrophobic",
+      "Hydrophilic head & hydrophobic tails",
+      "Neither"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 45,
+    "source": "NEET 2004",
+    "type": "MCQ Single Answer",
+    "chapter": "Cell: Structure & Function",
+    "q": "Protoplast is:",
+    "options": [
+      "Cell with wall",
+      "Cell without wall",
+      "Cell wall only",
+      "Nucleus only"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 46,
+    "source": "NEET 2006",
+    "type": "MCQ Single Answer",
+    "chapter": "Cell: Structure & Function",
+    "q": "Cells were first observed in cork by:",
+    "options": [
+      "Schleiden",
+      "Schwann",
+      "Robert Hooke",
+      "Leeuwenhoek"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 47,
+    "source": "NEET 2024",
+    "type": "MCQ Single Answer",
+    "chapter": "Cell: Structure & Function",
+    "q": "Murein refers to:",
+    "options": [
+      "Pectin",
+      "Chitin",
+      "Peptidoglycan",
+      "Suberin"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 48,
+    "source": "NEET 2010",
+    "type": "MCQ Single Answer",
+    "chapter": "Cell: Structure & Function",
+    "q": "Ribosomes are the site of:",
+    "options": [
+      "Lipid synthesis",
+      "Protein synthesis",
+      "DNA repair",
+      "Glycolysis"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 49,
+    "source": "NEET 2003",
+    "type": "MCQ Single Answer",
+    "chapter": "Cell: Structure & Function",
+    "q": "Primary active transport directly uses:",
+    "options": [
+      "ATP hydrolysis",
+      "Ion gradient only",
+      "Light energy",
+      "No energy"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50,
+    "source": "NEET 2002",
+    "type": "MCQ Single Answer",
+    "chapter": "Cell: Structure & Function",
+    "q": "Cholesterol in membrane modulates:",
+    "options": [
+      "Membrane fluidity & stability",
+      "DNA replication",
+      "Protein translation",
+      "Photosynthesis"
+    ],
+    "answer": 0
+  }
+]

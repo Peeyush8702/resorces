@@ -1,0 +1,454 @@
+[
+  {
+    "id": 1,
+    "source": "NEET 2001",
+    "type": "MCQ Single Answer",
+    "chapter": "Biomolecules",
+    "q": "Which of the following is a disaccharide?",
+    "options": ["Glucose", "Sucrose", "Fructose", "Galactose"],
+    "answer": 1
+  },
+  {
+    "id": 2,
+    "source": "NEET 2002",
+    "type": "MCQ Single Answer",
+    "chapter": "Biomolecules",
+    "q": "Peptide bond is formed between:",
+    "options": ["Two amino acids", "A sugar and a base", "A phosphate and sugar", "Two fatty acids"],
+    "answer": 0
+  },
+  {
+    "id": 3,
+    "source": "NEET 2003",
+    "type": "MCQ Single Answer",
+    "chapter": "Biomolecules",
+    "q": "Which one is a storage polysaccharide in animals?",
+    "options": ["Starch", "Glycogen", "Cellulose", "Inulin"],
+    "answer": 1
+  },
+  {
+    "id": 4,
+    "source": "NEET 2004",
+    "type": "MCQ Single Answer",
+    "chapter": "Biomolecules",
+    "q": "DNA and RNA are polymers of:",
+    "options": ["Amino acids", "Nucleotides", "Monosaccharides", "Fatty acids"],
+    "answer": 1
+  },
+  {
+    "id": 5,
+    "source": "NEET 2005",
+    "type": "MCQ Single Answer",
+    "chapter": "Biomolecules",
+    "q": "Which base is not present in RNA?",
+    "options": ["Adenine", "Uracil", "Thymine", "Cytosine"],
+    "answer": 2
+  },
+  {
+    "id": 6,
+    "source": "NEET 2006",
+    "type": "MCQ Single Answer",
+    "chapter": "Biomolecules",
+    "q": "The enzyme that joins Okazaki fragments during DNA replication is:",
+    "options": ["DNA polymerase I", "DNA polymerase III", "DNA ligase", "Primase"],
+    "answer": 2
+  },
+  {
+    "id": 7,
+    "source": "NEET 2007",
+    "type": "MCQ Single Answer",
+    "chapter": "Biomolecules",
+    "q": "Which vitamin deficiency causes rickets?",
+    "options": ["Vitamin A", "Vitamin B12", "Vitamin C", "Vitamin D"],
+    "answer": 3
+  },
+  {
+    "id": 8,
+    "source": "NEET 2008",
+    "type": "MCQ Single Answer",
+    "chapter": "Biomolecules",
+    "q": "Which one is a purine base?",
+    "options": ["Cytosine", "Uracil", "Thymine", "Adenine"],
+    "answer": 3
+  },
+  {
+    "id": 9,
+    "source": "NEET 2009",
+    "type": "MCQ Single Answer",
+    "chapter": "Biomolecules",
+    "q": "Which lipid is a major component of cell membranes?",
+    "options": ["Phospholipid", "Cholesterol", "Steroid", "Triglyceride"],
+    "answer": 0
+  },
+  {
+    "id": 10,
+    "source": "NEET 2010",
+    "type": "MCQ Single Answer",
+    "chapter": "Biomolecules",
+    "q": "Enzymes are mostly:",
+    "options": ["Proteins", "Carbohydrates", "Lipids", "Nucleic acids"],
+    "answer": 0
+  },
+  {
+    "id": 11,
+    "source": "NEET 2011",
+    "type": "MCQ Single Answer",
+    "chapter": "Biomolecules",
+    "q": "Which test is used to detect reducing sugars?",
+    "options": ["Biuret test", "Benedict's test", "Iodine test", "Sudan test"],
+    "answer": 1
+  },
+  {
+    "id": 12,
+    "source": "NEET 2012",
+    "type": "MCQ Single Answer",
+    "chapter": "Biomolecules",
+    "q": "The prosthetic group of hemoglobin is:",
+    "options": ["Chlorophyll", "Heme", "Cobalamin", "Biotin"],
+    "answer": 1
+  },
+  {
+    "id": 13,
+    "source": "NEET 2013",
+    "type": "MCQ Single Answer",
+    "chapter": "Biomolecules",
+    "q": "Which of the following is a fat-soluble vitamin?",
+    "options": ["Vitamin C", "Vitamin B complex", "Vitamin K", "Vitamin B12"],
+    "answer": 2
+  },
+  {
+    "id": 14,
+    "source": "NEET 2014",
+    "type": "MCQ Single Answer",
+    "chapter": "Biomolecules",
+    "q": "Enzyme activity is affected by:",
+    "options": ["pH", "Temperature", "Substrate concentration", "All of these"],
+    "answer": 3
+  },
+  {
+    "id": 15,
+    "source": "NEET 2015",
+    "type": "MCQ Single Answer",
+    "chapter": "Biomolecules",
+    "q": "Which of these is an essential amino acid?",
+    "options": ["Glycine", "Alanine", "Lysine", "Serine"],
+    "answer": 2
+  },
+  {
+    "id": 16,
+    "source": "NEET 2016",
+    "type": "MCQ Single Answer",
+    "chapter": "Biomolecules",
+    "q": "Which sugar is present in DNA?",
+    "options": ["Ribose", "Deoxyribose", "Fructose", "Galactose"],
+    "answer": 1
+  },
+  {
+    "id": 17,
+    "source": "NEET 2017",
+    "type": "MCQ Single Answer",
+    "chapter": "Biomolecules",
+    "q": "Which of the following lipids acts as a hormone?",
+    "options": ["Steroids", "Glycerol", "Fatty acids", "Triglycerides"],
+    "answer": 0
+  },
+  {
+    "id": 18,
+    "source": "NEET 2018",
+    "type": "MCQ Single Answer",
+    "chapter": "Biomolecules",
+    "q": "What is the monomeric unit of proteins?",
+    "options": ["Amino acids", "Fatty acids", "Nucleotides", "Monosaccharides"],
+    "answer": 0
+  },
+  {
+    "id": 19,
+    "source": "NEET 2019",
+    "type": "MCQ Single Answer",
+    "chapter": "Biomolecules",
+    "q": "Cellulose is made up of which monomer?",
+    "options": ["Maltose", "Glucose", "Fructose", "Sucrose"],
+    "answer": 1
+  },
+  {
+    "id": 20,
+    "source": "NEET 2020",
+    "type": "MCQ Single Answer",
+    "chapter": "Biomolecules",
+    "q": "Which bond stabilizes the secondary structure of proteins?",
+    "options": ["Ionic bond", "Hydrogen bond", "Peptide bond", "Disulfide bond"],
+    "answer": 1
+  },
+
+  {
+    "id": 21,
+    "source": "NEET 2021",
+    "type": "MCQ Single Answer",
+    "chapter": "Biomolecules",
+    "q": "Which one of the following is a reducing sugar?",
+    "options": ["Sucrose", "Maltose", "Starch", "Cellulose"],
+    "answer": 1
+  },
+  {
+    "id": 22,
+    "source": "NEET 2002",
+    "type": "MCQ Single Answer",
+    "chapter": "Biomolecules",
+    "q": "Holoenzyme is composed of:",
+    "options": ["Apoenzyme only", "Cofactor only", "Apoenzyme + Cofactor", "Substrate + Cofactor"],
+    "answer": 2
+  },
+  {
+    "id": 23,
+    "source": "NEET 2005",
+    "type": "MCQ Single Answer",
+    "chapter": "Biomolecules",
+    "q": "Which of the following is a phospholipid?",
+    "options": ["Lecithin", "Cholesterol", "Triglyceride", "Steroid"],
+    "answer": 0
+  },
+  {
+    "id": 24,
+    "source": "NEET 2008",
+    "type": "MCQ Single Answer",
+    "chapter": "Biomolecules",
+    "q": "Polysaccharide found in fungal cell wall is:",
+    "options": ["Cellulose", "Chitin", "Pectin", "Lignin"],
+    "answer": 1
+  },
+  {
+    "id": 25,
+    "source": "NEET 2010",
+    "type": "MCQ Single Answer",
+    "chapter": "Biomolecules",
+    "q": "Which one is a fat-soluble vitamin?",
+    "options": ["Vitamin B1", "Vitamin C", "Vitamin K", "Vitamin B6"],
+    "answer": 2
+  },
+  {
+    "id": 26,
+    "source": "NEET 2012",
+    "type": "MCQ Single Answer",
+    "chapter": "Biomolecules",
+    "q": "The most abundant protein in the animal world is:",
+    "options": ["Collagen", "Keratin", "Albumin", "Hemoglobin"],
+    "answer": 0
+  },
+  {
+    "id": 27,
+    "source": "NEET 2014",
+    "type": "MCQ Single Answer",
+    "chapter": "Biomolecules",
+    "q": "Which enzyme catalyzes the conversion of starch into maltose?",
+    "options": ["Amylase", "Maltase", "Invertase", "Zymase"],
+    "answer": 0
+  },
+  {
+    "id": 28,
+    "source": "NEET 2015",
+    "type": "MCQ Single Answer",
+    "chapter": "Biomolecules",
+    "q": "Which bond is present between phosphate and sugar in nucleic acids?",
+    "options": ["Glycosidic bond", "Phosphodiester bond", "Hydrogen bond", "Peptide bond"],
+    "answer": 1
+  },
+  {
+    "id": 29,
+    "source": "NEET 2017",
+    "type": "MCQ Single Answer",
+    "chapter": "Biomolecules",
+    "q": "Name the nitrogenous base that is present in DNA but not in RNA.",
+    "options": ["Uracil", "Thymine", "Adenine", "Cytosine"],
+    "answer": 1
+  },
+  {
+    "id": 30,
+    "source": "NEET 2019",
+    "type": "MCQ Single Answer",
+    "chapter": "Biomolecules",
+    "q": "Globular proteins differ from fibrous proteins in having:",
+    "options": ["Secondary structure", "Helical structure", "Tertiary structure", "No peptide bonds"],
+    "answer": 2
+  },
+  {
+    "id": 31,
+    "source": "NEET 2001",
+    "type": "MCQ Single Answer",
+    "chapter": "Biomolecules",
+    "q": "Which polysaccharide forms the exoskeleton of insects?",
+    "options": ["Cellulose", "Chitin", "Glycogen", "Lignin"],
+    "answer": 1
+  },
+  {
+    "id": 32,
+    "source": "NEET 2003",
+    "type": "MCQ Single Answer",
+    "chapter": "Biomolecules",
+    "q": "Nucleic acids were first discovered by:",
+    "options": ["Watson", "Miescher", "Crick", "Franklin"],
+    "answer": 1
+  },
+  {
+    "id": 33,
+    "source": "NEET 2006",
+    "type": "MCQ Single Answer",
+    "chapter": "Biomolecules",
+    "q": "Essential fatty acids are:",
+    "options": ["Lauric acid", "Linoleic acid", "Palmitic acid", "Stearic acid"],
+    "answer": 1
+  },
+  {
+    "id": 34,
+    "source": "NEET 2008",
+    "type": "MCQ Single Answer",
+    "chapter": "Biomolecules",
+    "q": "The enzyme that catalyzes the breakdown of hydrogen peroxide is:",
+    "options": ["Catalase", "Peroxidase", "Amylase", "Lipase"],
+    "answer": 0
+  },
+  {
+    "id": 35,
+    "source": "NEET 2010",
+    "type": "MCQ Single Answer",
+    "chapter": "Biomolecules",
+    "q": "Which one is a ketose sugar?",
+    "options": ["Glucose", "Fructose", "Galactose", "Ribose"],
+    "answer": 1
+  },
+  {
+    "id": 36,
+    "source": "NEET 2011",
+    "type": "MCQ Single Answer",
+    "chapter": "Biomolecules",
+    "q": "Which is an example of fibrous protein?",
+    "options": ["Insulin", "Keratin", "Albumin", "Hemoglobin"],
+    "answer": 1
+  },
+  {
+    "id": 37,
+    "source": "NEET 2013",
+    "type": "MCQ Single Answer",
+    "chapter": "Biomolecules",
+    "q": "Which of these contains both nitrogen and phosphorus?",
+    "options": ["Nucleotides", "Proteins", "Lipids", "Polysaccharides"],
+    "answer": 0
+  },
+  {
+    "id": 38,
+    "source": "NEET 2015",
+    "type": "MCQ Single Answer",
+    "chapter": "Biomolecules",
+    "q": "Which one is a reducing disaccharide?",
+    "options": ["Sucrose", "Maltose", "Trehalose", "Raffinose"],
+    "answer": 1
+  },
+  {
+    "id": 39,
+    "source": "NEET 2017",
+    "type": "MCQ Single Answer",
+    "chapter": "Biomolecules",
+    "q": "Enzymes that catalyze removal of hydrogen are called:",
+    "options": ["Oxidases", "Dehydrogenases", "Transferases", "Isomerases"],
+    "answer": 1
+  },
+  {
+    "id": 40,
+    "source": "NEET 2018",
+    "type": "MCQ Single Answer",
+    "chapter": "Biomolecules",
+    "q": "The vitamin that can be synthesized in the skin is:",
+    "options": ["Vitamin A", "Vitamin C", "Vitamin D", "Vitamin E"],
+    "answer": 2
+  },
+  {
+    "id": 41,
+    "source": "NEET 2019",
+    "type": "MCQ Single Answer",
+    "chapter": "Biomolecules",
+    "q": "The enzyme that unwinds DNA strands during replication is:",
+    "options": ["Ligase", "Helicase", "Primase", "Polymerase"],
+    "answer": 1
+  },
+  {
+    "id": 42,
+    "source": "NEET 2020",
+    "type": "MCQ Single Answer",
+    "chapter": "Biomolecules",
+    "q": "Vitamin C is also known as:",
+    "options": ["Calciferol", "Retinol", "Ascorbic acid", "Tocopherol"],
+    "answer": 2
+  },
+  {
+    "id": 43,
+    "source": "NEET 2021",
+    "type": "MCQ Single Answer",
+    "chapter": "Biomolecules",
+    "q": "Which one of the following bases is pyrimidine?",
+    "options": ["Adenine", "Guanine", "Thymine", "All of these"],
+    "answer": 2
+  },
+  {
+    "id": 44,
+    "source": "NEET 2002",
+    "type": "MCQ Single Answer",
+    "chapter": "Biomolecules",
+    "q": "Which of the following vitamins acts as antioxidant?",
+    "options": ["Vitamin A", "Vitamin C", "Vitamin E", "All of these"],
+    "answer": 3
+  },
+  {
+    "id": 45,
+    "source": "NEET 2005",
+    "type": "MCQ Single Answer",
+    "chapter": "Biomolecules",
+    "q": "Which one is an essential polysaccharide for dietary fibre?",
+    "options": ["Cellulose", "Glycogen", "Starch", "Pectin"],
+    "answer": 0
+  },
+  {
+    "id": 46,
+    "source": "NEET 2007",
+    "type": "MCQ Single Answer",
+    "chapter": "Biomolecules",
+    "q": "DNA replication is:",
+    "options": ["Conservative", "Semiconservative", "Dispersive", "Random"],
+    "answer": 1
+  },
+  {
+    "id": 47,
+    "source": "NEET 2010",
+    "type": "MCQ Single Answer",
+    "chapter": "Biomolecules",
+    "q": "Which one is the most abundant biomolecule on earth?",
+    "options": ["Cellulose", "Chitin", "Protein", "DNA"],
+    "answer": 0
+  },
+  {
+    "id": 48,
+    "source": "NEET 2013",
+    "type": "MCQ Single Answer",
+    "chapter": "Biomolecules",
+    "q": "In DNA, adenine pairs with:",
+    "options": ["Cytosine", "Thymine", "Guanine", "Uracil"],
+    "answer": 1
+  },
+  {
+    "id": 49,
+    "source": "NEET 2016",
+    "type": "MCQ Single Answer",
+    "chapter": "Biomolecules",
+    "q": "Which of these is an example of conjugated protein?",
+    "options": ["Hemoglobin", "Keratin", "Collagen", "Insulin"],
+    "answer": 0
+  },
+  {
+    "id": 50,
+    "source": "NEET 2018",
+    "type": "MCQ Single Answer",
+    "chapter": "Biomolecules",
+    "q": "Which vitamin deficiency causes pernicious anemia?",
+    "options": ["Vitamin C", "Vitamin B12", "Vitamin A", "Vitamin D"],
+    "answer": 1
+  }
+]
+
