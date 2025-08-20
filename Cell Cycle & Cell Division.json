@@ -1,0 +1,474 @@
+[
+  {
+    "id": 1,
+    "source": "NEET 2020",
+    "type": "MCQ Single Answer",
+    "chapter": "Cell Division and Cell Cycle",
+    "q": "Which phase of the cell cycle is primarily involved in DNA replication?",
+    "options": ["G1 phase", "S phase", "G2 phase", "M phase"],
+    "answer": 1
+  },
+  {
+    "id": 2,
+    "source": "NEET 2020",
+    "type": "MCQ Single Answer",
+    "chapter": "Cell Division and Cell Cycle",
+    "q": "During which stage of mitosis do chromosomes align at the equatorial plane?",
+    "options": ["Prophase", "Metaphase", "Anaphase", "Telophase"],
+    "answer": 1
+  },
+  {
+    "id": 3,
+    "source": "NEET 2020",
+    "type": "MCQ Single Answer",
+    "chapter": "Cell Division and Cell Cycle",
+    "q": "Which structure attaches the sister chromatids to the spindle fibers?",
+    "options": ["Centrosome", "Kinetochore", "Centromere", "Microtubule"],
+    "answer": 1
+  },
+  {
+    "id": 4,
+    "source": "NEET 2020",
+    "type": "MCQ Single Answer",
+    "chapter": "Cell Division and Cell Cycle",
+    "q": "Meiosis produces how many daughter cells from a single parent cell?",
+    "options": ["2", "4", "8", "1"],
+    "answer": 1
+  },
+  {
+    "id": 5,
+    "source": "NEET 2020",
+    "type": "MCQ Single Answer",
+    "chapter": "Cell Division and Cell Cycle",
+    "q": "Crossing over occurs during which stage of meiosis?",
+    "options": ["Prophase I", "Metaphase I", "Anaphase II", "Telophase II"],
+    "answer": 0
+  },
+  {
+    "id": 6,
+    "source": "NEET 2020",
+    "type": "MCQ Single Answer",
+    "chapter": "Cell Division and Cell Cycle",
+    "q": "Which phase follows G1 in the cell cycle?",
+    "options": ["S phase", "G2 phase", "M phase", "G0 phase"],
+    "answer": 0
+  },
+  {
+    "id": 7,
+    "source": "NEET 2020",
+    "type": "MCQ Single Answer",
+    "chapter": "Cell Division and Cell Cycle",
+    "q": "The total duration of mitotic phase in a rapidly dividing animal cell is approximately:",
+    "options": ["1 hour", "12 hours", "24 hours", "48 hours"],
+    "answer": 0
+  },
+  {
+    "id": 8,
+    "source": "NEET 2020",
+    "type": "MCQ Single Answer",
+    "chapter": "Cell Division and Cell Cycle",
+    "q": "Which protein complex regulates the transition from metaphase to anaphase?",
+    "options": ["Cyclin B", "APC/C", "p53", "Rb protein"],
+    "answer": 1
+  },
+  {
+    "id": 9,
+    "source": "NEET 2020",
+    "type": "MCQ Single Answer",
+    "chapter": "Cell Division and Cell Cycle",
+    "q": "During which phase do centrosomes move to opposite poles of the cell?",
+    "options": ["Prophase", "Metaphase", "Anaphase", "Telophase"],
+    "answer": 0
+  },
+  {
+    "id": 10,
+    "source": "NEET 2020",
+    "type": "MCQ Single Answer",
+    "chapter": "Cell Division and Cell Cycle",
+    "q": "Which of the following occurs during G0 phase?",
+    "options": ["DNA synthesis", "Cell growth", "Cell is metabolically active but not dividing", "Chromosome condensation"],
+    "answer": 2
+  },
+  {
+    "id": 11,
+    "source": "NEET 2020",
+    "type": "MCQ Single Answer",
+    "chapter": "Cell Division and Cell Cycle",
+    "q": "Synapsis of homologous chromosomes occurs in which stage?",
+    "options": ["Prophase I", "Prophase II", "Metaphase I", "Anaphase I"],
+    "answer": 0
+  },
+  {
+    "id": 12,
+    "source": "NEET 2020",
+    "type": "MCQ Single Answer",
+    "chapter": "Cell Division and Cell Cycle",
+    "q": "The point where two homologous chromosomes exchange genetic material is called:",
+    "options": ["Centromere", "Chiasma", "Kinetochore", "Spindle fiber"],
+    "answer": 1
+  },
+  {
+    "id": 13,
+    "source": "NEET 2020",
+    "type": "MCQ Single Answer",
+    "chapter": "Cell Division and Cell Cycle",
+    "q": "How many chromatids are present in a human cell at the end of S phase?",
+    "options": ["46", "92", "23", "184"],
+    "answer": 1
+  },
+  {
+    "id": 14,
+    "source": "NEET 2020",
+    "type": "MCQ Single Answer",
+    "chapter": "Cell Division and Cell Cycle",
+    "q": "Which type of spindle fibers attach to kinetochores?",
+    "options": ["Polar fibers", "Astral fibers", "Kinetochore fibers", "All of the above"],
+    "answer": 2
+  },
+  {
+    "id": 15,
+    "source": "NEET 2020",
+    "type": "MCQ Single Answer",
+    "chapter": "Cell Division and Cell Cycle",
+    "q": "During anaphase of mitosis, sister chromatids are separated by:",
+    "options": ["Spindle fibers shortening", "Cell membrane contraction", "Chromatin condensation", "Nuclear envelope breakdown"],
+    "answer": 0
+  },
+  {
+    "id": 16,
+    "source": "NEET 2020",
+    "type": "MCQ Single Answer",
+    "chapter": "Cell Division and Cell Cycle",
+    "q": "Which checkpoint ensures that DNA replication is complete before mitosis?",
+    "options": ["G1 checkpoint", "G2 checkpoint", "M checkpoint", "S checkpoint"],
+    "answer": 1
+  },
+  {
+    "id": 17,
+    "source": "NEET 2020",
+    "type": "MCQ Single Answer",
+    "chapter": "Cell Division and Cell Cycle",
+    "q": "Cytokinesis occurs during which phase?",
+    "options": ["Late anaphase and telophase", "Prophase", "Metaphase", "G1 phase"],
+    "answer": 0
+  },
+  {
+    "id": 18,
+    "source": "NEET 2020",
+    "type": "MCQ Single Answer",
+    "chapter": "Cell Division and Cell Cycle",
+    "q": "The spindle fibers are made of:",
+    "options": ["Actin filaments", "Microtubules", "Intermediate filaments", "Myosin"],
+    "answer": 1
+  },
+  {
+    "id": 19,
+    "source": "NEET 2020",
+    "type": "MCQ Single Answer",
+    "chapter": "Cell Division and Cell Cycle",
+    "q": "Which phase is longest in the cell cycle?",
+    "options": ["G1 phase", "S phase", "G2 phase", "M phase"],
+    "answer": 0
+  },
+  {
+    "id": 20,
+    "source": "NEET 2020",
+    "type": "MCQ Single Answer",
+    "chapter": "Cell Division and Cell Cycle",
+    "q": "The reduction division occurs during:",
+    "options": ["Mitosis", "Meiosis I", "Meiosis II", "G1 phase"],
+    "answer": 1
+  },
+  {
+    "id": 21,
+    "source": "NEET 2020",
+    "type": "MCQ Single Answer",
+    "chapter": "Cell Division and Cell Cycle",
+    "q": "Which event occurs during telophase?",
+    "options": ["Chromosomes condense", "Nuclear envelope reforms", "Sister chromatids separate", "Spindle fibers form"],
+    "answer": 1
+  },
+  {
+    "id": 22,
+    "source": "NEET 2020",
+    "type": "MCQ Single Answer",
+    "chapter": "Cell Division and Cell Cycle",
+    "q": "During which phase of meiosis do homologous chromosomes separate?",
+    "options": ["Anaphase I", "Anaphase II", "Telophase I", "Telophase II"],
+    "answer": 0
+  },
+  {
+    "id": 23,
+    "source": "NEET 2020",
+    "type": "MCQ Single Answer",
+    "chapter": "Cell Division and Cell Cycle",
+    "q": "Cell cycle duration is shortest in which type of cells?",
+    "options": ["Liver cells", "Bone marrow cells", "Nerve cells", "Muscle cells"],
+    "answer": 1
+  },
+  {
+    "id": 24,
+    "source": "NEET 2020",
+    "type": "MCQ Single Answer",
+    "chapter": "Cell Division and Cell Cycle",
+    "q": "Meiosis II is similar to which type of cell division?",
+    "options": ["Mitosis", "Meiosis I", "Binary fission", "G1 phase"],
+    "answer": 0
+  },
+  {
+    "id": 25,
+    "source": "NEET 2020",
+    "type": "MCQ Single Answer",
+    "chapter": "Cell Division and Cell Cycle",
+    "q": "Cell plate formation occurs in:",
+    "options": ["Animal cells", "Plant cells", "Both animal and plant cells", "Fungi only"],
+    "answer": 1
+  },
+  {
+    "id": 26,
+    "source": "NEET 2020",
+    "type": "MCQ Single Answer",
+    "chapter": "Cell Division and Cell Cycle",
+    "q": "Which enzyme helps in the unwinding of DNA during replication?",
+    "options": ["DNA polymerase", "Helicase", "Ligase", "Primase"],
+    "answer": 1
+  },
+  {
+    "id": 27,
+    "source": "NEET 2020",
+    "type": "MCQ Single Answer",
+    "chapter": "Cell Division and Cell Cycle",
+    "q": "Which of the following is true about meiosis?",
+    "options": [
+      "Produces 2 identical daughter cells",
+      "Increases genetic variability",
+      "Occurs in somatic cells only",
+      "Maintains chromosome number"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 28,
+    "source": "NEET 2020",
+    "type": "MCQ Single Answer",
+    "chapter": "Cell Division and Cell Cycle",
+    "q": "What happens during G2 phase of the cell cycle?",
+    "options": [
+      "Cell grows and performs normal functions",
+      "DNA replicates",
+      "Preparation for mitosis",
+      "Cytokinesis occurs"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 29,
+    "source": "NEET 2020",
+    "type": "MCQ Single Answer",
+    "chapter": "Cell Division and Cell Cycle",
+    "q": "Which term describes the non-dividing state of a cell?",
+    "options": ["G0 phase", "G1 phase", "S phase", "M phase"],
+    "answer": 0
+  },
+  {
+    "id": 30,
+    "source": "NEET 2020",
+    "type": "MCQ Single Answer",
+    "chapter": "Cell Division and Cell Cycle",
+    "q": "Which structure disappears during prophase of mitosis?",
+    "options": ["Nucleolus", "Centrosome", "Chromosome", "Ribosome"],
+    "answer": 0
+  },
+  {
+    "id": 31,
+    "source": "NEET 2020",
+    "type": "MCQ Single Answer",
+    "chapter": "Cell Division and Cell Cycle",
+    "q": "Which phase ensures proper alignment of chromosomes before separation?",
+    "options": ["Metaphase checkpoint", "G1 checkpoint", "G2 checkpoint", "S checkpoint"],
+    "answer": 0
+  },
+  {
+    "id": 32,
+    "source": "NEET 2020",
+    "type": "MCQ Single Answer",
+    "chapter": "Cell Division and Cell Cycle",
+    "q": "The spindle apparatus is organized by:",
+    "options": ["Centrosomes", "Nucleus", "Golgi body", "Endoplasmic reticulum"],
+    "answer": 0
+  },
+  {
+    "id": 33,
+    "source": "NEET 2020",
+    "type": "MCQ Single Answer",
+    "chapter": "Cell Division and Cell Cycle",
+    "q": "The difference between meiosis I and meiosis II is:",
+    "options": [
+      "Meiosis I separates sister chromatids",
+      "Meiosis II separates homologous chromosomes",
+      "Meiosis I is reductional division",
+      "Meiosis II produces diploid cells"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 34,
+    "source": "NEET 2020",
+    "type": "MCQ Single Answer",
+    "chapter": "Cell Division and Cell Cycle",
+    "q": "Which checkpoint prevents entry into S phase if DNA is damaged?",
+    "options": ["G1 checkpoint", "G2 checkpoint", "M checkpoint", "G0 checkpoint"],
+    "answer": 0
+  },
+  {
+    "id": 35,
+    "source": "NEET 2020",
+    "type": "MCQ Single Answer",
+    "chapter": "Cell Division and Cell Cycle",
+    "q": "During which phase do sister chromatids move to opposite poles?",
+    "options": ["Anaphase", "Telophase", "Prophase", "Metaphase"],
+    "answer": 0
+  },
+  {
+    "id": 36,
+    "source": "NEET 2020",
+    "type": "MCQ Single Answer",
+    "chapter": "Cell Division and Cell Cycle",
+    "q": "The reduction of chromosome number by half occurs during:",
+    "options": ["Meiosis I", "Meiosis II", "Mitosis", "G1 phase"],
+    "answer": 0
+  },
+  {
+    "id": 37,
+    "source": "NEET 2020",
+    "type": "MCQ Single Answer",
+    "chapter": "Cell Division and Cell Cycle",
+    "q": "Which enzyme joins Okazaki fragments during DNA replication?",
+    "options": ["DNA polymerase", "Ligase", "Helicase", "Primase"],
+    "answer": 1
+  },
+  {
+    "id": 38,
+    "source": "NEET 2020",
+    "type": "MCQ Single Answer",
+    "chapter": "Cell Division and Cell Cycle",
+    "q": "Which stage of meiosis is characterized by the separation of sister chromatids?",
+    "options": ["Anaphase II", "Anaphase I", "Metaphase I", "Telophase I"],
+    "answer": 0
+  },
+  {
+    "id": 39,
+    "source": "NEET 2020",
+    "type": "MCQ Single Answer",
+    "chapter": "Cell Division and Cell Cycle",
+    "q": "Which phase immediately precedes mitosis?",
+    "options": ["G1 phase", "S phase", "G2 phase", "G0 phase"],
+    "answer": 2
+  },
+  {
+    "id": 40,
+    "source": "NEET 2020",
+    "type": "MCQ Single Answer",
+    "chapter": "Cell Division and Cell Cycle",
+    "q": "Which of the following occurs during prophase I of meiosis?",
+    "options": [
+      "Chromosomes condense",
+      "Synapsis of homologous chromosomes",
+      "Crossing over",
+      "All of the above"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 41,
+    "source": "NEET 2020",
+    "type": "MCQ Single Answer",
+    "chapter": "Cell Division and Cell Cycle",
+    "q": "Cytokinesis in animal cells is achieved by:",
+    "options": ["Cell plate formation", "Cleavage furrow", "Spindle fiber contraction", "Vesicle fusion"],
+    "answer": 1
+  },
+  {
+    "id": 42,
+    "source": "NEET 2020",
+    "type": "MCQ Single Answer",
+    "chapter": "Cell Division and Cell Cycle",
+    "q": "Which checkpoint monitors spindle formation and chromosome attachment?",
+    "options": ["G1 checkpoint", "G2 checkpoint", "M checkpoint", "S checkpoint"],
+    "answer": 2
+  },
+  {
+    "id": 43,
+    "source": "NEET 2020",
+    "type": "MCQ Single Answer",
+    "chapter": "Cell Division and Cell Cycle",
+    "q": "During which stage does the nuclear envelope break down?",
+    "options": ["Prophase", "Metaphase", "Anaphase", "Telophase"],
+    "answer": 0
+  },
+  {
+    "id": 44,
+    "source": "NEET 2020",
+    "type": "MCQ Single Answer",
+    "chapter": "Cell Division and Cell Cycle",
+    "q": "The physical connection between homologous chromosomes is called:",
+    "options": ["Centromere", "Chiasma", "Kinetochore", "Microtubule"],
+    "answer": 1
+  },
+  {
+    "id": 45,
+    "source": "NEET 2020",
+    "type": "MCQ Single Answer",
+    "chapter": "Cell Division and Cell Cycle",
+    "q": "Which phase of meiosis contributes to genetic variation?",
+    "options": ["Prophase I", "Metaphase II", "Anaphase II", "Telophase II"],
+    "answer": 0
+  },
+  {
+    "id": 46,
+    "source": "NEET 2020",
+    "type": "MCQ Single Answer",
+    "chapter": "Cell Division and Cell Cycle",
+    "q": "Which phase is characterized by two successive nuclear divisions without an intervening S phase?",
+    "options": ["Meiosis", "Mitosis", "G1 phase", "G2 phase"],
+    "answer": 0
+  },
+  {
+    "id": 47,
+    "source": "NEET 2020",
+    "type": "MCQ Single Answer",
+    "chapter": "Cell Division and Cell Cycle",
+    "q": "The first visible sign of cell division in a plant cell is:",
+    "options": ["Chromosome condensation", "Spindle formation", "Cell plate formation", "Nuclear envelope breakdown"],
+    "answer": 0
+  },
+  {
+    "id": 48,
+    "source": "NEET 2020",
+    "type": "MCQ Single Answer",
+    "chapter": "Cell Division and Cell Cycle",
+    "q": "During telophase II of meiosis, the resulting cells are:",
+    "options": ["Diploid", "Haploid", "Triploid", "Tetraploid"],
+    "answer": 1
+  },
+  {
+    "id": 49,
+    "source": "NEET 2020",
+    "type": "MCQ Single Answer",
+    "chapter": "Cell Division and Cell Cycle",
+    "q": "The time taken for one complete cell cycle is called:",
+    "options": ["Generation time", "Doubling time", "Mitosis duration", "Cytokinesis time"],
+    "answer": 0
+  },
+  {
+    "id": 50,
+    "source": "NEET 2020",
+    "type": "MCQ Single Answer",
+    "chapter": "Cell Division and Cell Cycle",
+    "q": "Which of the following ensures accurate DNA replication?",
+    "options": ["DNA ligase", "DNA polymerase proofreading", "Helicase", "Primase"],
+    "answer": 1
+  }
+]
+
+
